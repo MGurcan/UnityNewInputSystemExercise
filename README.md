@@ -10,18 +10,19 @@ These instructions will help you get started with playing the game on your local
 ## Gameplay
 Here are the some instructions and keys of the game:
 
-Walk: W-A-S-D
-Run: left-Shift + Walk
-Jump: Space
-Double-Jump: Space during Jump
-Squat and take the key if exists: left-Ctrl
-Dash: E
-Open-Close the doors: F
-Change the look-up: Mouse
+* Walk: W-A-S-D
+* Run: left-Shift + Walk
+* Jump: Space
+* Double-Jump: Space during Jump
+* Squat and take the key if exists: left-Ctrl
+* Dash: E
+* Open-Close the doors: F
+* Change the look-up: Mouse
+
+
+https://github.com/MGurcan/UnityNewInputSystemExercise/assets/78200658/d878033e-4682-4b50-b1f8-d9e1eda16bf7
 
 # Difficulties Encountered and Solutions
-
-
 ----------------------------------------------------------------------------
 #### 1. Creating 3D-Animation
 My biggest problem was not being proficient in creating 3D animations. I managed to overcome this problem to some extent by copying and modifying animations from the ready-made free asset model I obtained. However, it is still difficult to say that they work very efficiently.
