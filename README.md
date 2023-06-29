@@ -19,6 +19,7 @@ Here are the some instructions and keys of the game:
 * Open-Close the doors: F
 * Change the look-up: Mouse
 
+https://www.youtube.com/watch?v=KMkynbkKyKM
 
 https://github.com/MGurcan/UnityNewInputSystemExercise/assets/78200658/d878033e-4682-4b50-b1f8-d9e1eda16bf7
 
